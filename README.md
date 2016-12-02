@@ -3,7 +3,9 @@
 I had initially assumed that I would be unable to attend the [International Open Data Conference (IODC)](http://opendatacon.org/) 2016 due to lack of funding. Fortunately, Open Knowledge International (OKI) chose me to join the IODC unconference (and thank you IDRC/OD4D for sponsoring my trip) to represent and share the perspective of Sinar Project, [one of our collaborative projects](http://sinarproject.org/en/projects/open-spending-1/public-housing). So, props to OKI for being such a generous sport in flying a person from the other side of the globe to IODC in Madrid. It was my first physical attendance to IODC (and my first time in continental Europe!). Based on my experiences at IODC16 as a participant, volunteer facilitator and volunteer notetaker, I would like to share some ideas on how we can improve the IODC conference format for 2018 in Argentina.
 
 From the point of view as a female hijabi southeast Asian-born person of colour who works in a civil society organisation based in Southeast Asia, I see that international conferences such as IODC often lack two fundamental aspects:
+
 1. Diversity
+
 2. Inclusiveness
 
 I am aware that IODC is meant to be a meeting point for the global community to debate and study the future of open data. However, when it comes to “Global Goals, Local Impact” (the theme of this year’s conference), there are a number of aspects of the conference which hinder its ability to be inclusive and diverse from the beginning. Diversity and inclusiveness can and should act as the foundation of IODC, balancing at the same time cost-effectiveness and hopefully, sustainability.
@@ -40,9 +42,13 @@ This is not just any a typical kind of window shopping. This is window shopping 
 In supporting all of the points above, we need to look at two aspects of measuring the growth of our target groups: period to measure progress (minimum of 1 year and a maximum of 2 years) and milestones for both achievements and failures. More importantly, we must ensure there are suitable mechanisms for capacity building. There should be an expectation set to allow organisers to evaluate progress. This progress should be shared with IODC organisers, attendees and the rest of the world.
 
 Furthermore, in the proposed session on diversity and inclusivity, we can discuss further:
+
 – Barriers of participation for remote participants and panels/facilitators
+
 – Best practices in collecting feedbacks before and after participating IODC
+
 – Is a centralized hub a useful contribution for remote participation? Are there any existing examples?
+
 – Ways to attract new participants and panels/facilitators
 
 There is a need for capacity building internally and externally so the open data community can ensure local communities understand the importance of open data. This will entail further training/coaching people to make use of open data, putting the pressure on policy makers to implement better National Action Plans, improving Freedom of Information policy, and a renewed focus on better open government policy. Therefore, let’s spare some energy to make IODC more inclusive and diverse through remote participation and see how we can grow together collectively as a movement.
