@@ -46,3 +46,5 @@ Furthermore, in the proposed session on diversity and inclusivity, we can discus
 – Ways to attract new participants and panels/facilitators
 
 There is a need for capacity building internally and externally so the open data community can ensure local communities understand the importance of open data. This will entail further training/coaching people to make use of open data, putting the pressure on policy makers to implement better National Action Plans, improving Freedom of Information policy, and a renewed focus on better open government policy. Therefore, let’s spare some energy to make IODC more inclusive and diverse through remote participation and see how we can grow together collectively as a movement.
+
+This blog was first published in [Open Knowledge International blog](http://blog.okfn.org/2016/11/07/how-we-as-open-data-community-can-improve-international-open-data-conference-iodc-together/).
