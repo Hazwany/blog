@@ -12,6 +12,7 @@ To promote global participation and sustainable discussion for the future of ope
 Following are four points that we, as the global, digital & data driven community, need to consider when we talk actively about diversity and inclusiveness while supporting communities who are facing difficulties in constraint environments.
 
 ![Alt text](https://i2.wp.com/blog.okfn.org/files/2016/11/inclusive.jpg?resize=600%2C400)
+*Are we really inclusive? (Image: IODC16)*
 
 ##1. The element of remote
 The Open Data field has many challenges to deal with, as well as strategies and shared experiences. Wouldn’t the discussion be more thought provoking when sessions are adaptable for remote panels where anybody and everybody from around the world can contribute their input in the session? We don’t need to eliminate the panel format entirely, but there should be a flexibility where panel format can be changed from its traditional form to reduce the interaction of barriers between moderator(s), speaker(s) and audiences. For an example of this in practice, the [Data + Accountability I](https://internationalopendataconfer2016.sched.org/event/7PVO) session was in an un-panel format. The un-panel format is the opposite of panel format where there are more live interaction and feedback from the attendees/participants with speakers and moderators. This format is done off the stage and most of the discussion made in a circle. This allows better knowledge sharing.
@@ -26,6 +27,7 @@ As a follow-up to point 1, we have to approach the right target group(s) that ar
 I echoed this point in an article on the [creation of elites](https://medium.com/@kaerumy/civil-society-participation-as-equal-participants-for-important-technical-issues-requires-well-c057efe6a9cb#.1gqjfv3y4), how can you address the repetition of participation of small groups of elites that claim to represent the minorities and the communities in their respective country/region? Following are four groups that we, the open data community, need to consider approaching particularly: non-tech skilled persons that have experiences in rights-based issues, tech experienced individuals, intermediaries, and beneficiaries.
 
 ![Alt text](https://i0.wp.com/blog.okfn.org/files/2016/11/IODC-unconf2.jpg?resize=600%2C400)
+*Nany in the unconference discussing capacity building (image: IODC16)*
 
 ##3. Window shopping
 This is not just any a typical kind of window shopping. This is window shopping for funding. Can IODC be more than just a one-off meeting point? Wouldn’t it be great if some percentage of the conference budget allocated to fund projects at the end of the conference? There is another way to have an added value for IODC: fund small scale & measurable open data projects by regions. This is where organisers of sessions participate with a mission to not just bring ideas and share it with the world but to make it come to life in small projects. IODC can become a platform where organisers of sessions begin to experiment their ideas that can really lead to social change.
